@@ -13,5 +13,16 @@
     "joi": "4.x.x",
     "mongoose": "^3.8.20",
     "socket.io": "^1.3.4"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "socket.io",
+    "angular"
+  ],
+  "author": {
+    "name": "gaurav gupta",
+    "email": "gaurav_bng@hotmail.com",
+    "website": "www.cronj.com"
   }
 }
